@@ -1,7 +1,7 @@
 {
   "extends": [
-    "@lx-yt/tsconfig/tsconfig.base.json",
-    "@lx-yt/tsconfig/tsconfig.react.json"
+    "@lx-yt/ts-config-default/tsconfig.base.json",
+    "@lx-yt/ts-config-default/tsconfig.react.json"
   ],
   "include": [
     "src",
@@ -9,6 +9,5 @@
     "tailwind.config.ts",
     "vite.config.ts",
     "vitest-setup.ts"
-  ],
-  "exclude": ["node_modules", "dist"]
+  ]
 }
