@@ -1,3 +1,3 @@
-# React + Tailwind + TypeScript + Vite + ESLint
+# Optimize your typing
 
-A template for npm packages with React, Tailwind, TypeScript, Vite, and ESLint already set up.
+With Optyper, you can easily speed up and increase the accuracy of your typing.

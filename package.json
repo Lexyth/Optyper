@@ -1,23 +1,23 @@
 {
-  "name": "@lx-yt/react-package-template",
+  "name": "@lexyth/optyper",
   "version": "0.0.0",
-  "description": "A template for npm packages with React, Tailwind, TypeScript, Vite, and ESLint already set up.",
+  "description": "Optimize your typing.",
   "keywords": [
-    "template",
     "react",
     "tailwind",
     "typescript",
     "vite",
-    "eslint"
+    "eslint",
+    "typing"
   ],
   "author": "Lexyth",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lx-yt/react-package-template.git"
+    "url": "git+git remote add origin https://github.com/Lexyth/Optyper.git"
   },
-  "homepage": "https://github.com/lx-yt/react-package-template#readme",
+  "homepage": "https://github.com/Lexyth/Optyper#readme",
   "bugs": {
-    "url": "https://github.com/lx-yt/react-package-template/issues"
+    "url": "https://github.com/Lexyth/Optyper/issues"
   },
   "license": "MIT",
   "type": "module",

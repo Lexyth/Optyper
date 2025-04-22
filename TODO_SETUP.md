@@ -1,4 +1,4 @@
-- [ ] index.html Change title.
-- [ ] package.json Change name and description and repository.
-- [ ] README.md Change the text.
+- [x] index.html Change title.
+- [x] package.json Change name and description and repository.
+- [x] README.md Change the text.
 - [ ] vite.config.ts Change build.lib.name.
